@@ -1,0 +1,36 @@
+body{
+    font-family: 'century gothic';
+}
+
+.container{
+    width: 100%;
+    margin-top: 150px;
+}
+
+.line{
+    background: yellow;
+    width: 40px;
+    height: 4px;
+}
+
+.title{
+    font-size: 70px;
+}
+
+.table{
+    margin-left: 300px;
+}
+
+button{
+    background-color: yellow;
+    border: none;
+    padding: 6px 15px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+h5{
+    font-size: 20px;
+}
+
+
